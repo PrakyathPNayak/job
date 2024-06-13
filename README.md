@@ -3,11 +3,3 @@ there is pdf which will explain what it is by bitspeed"
 -Aryan
 
 Don't worry, I'll try to fix it
-
-
-dummy text 
-
-
-
-
-Hello!
